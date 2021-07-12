@@ -1,2 +1,2 @@
 # CNN
-Image classification
+Image classification with Convolutional Neural Network
